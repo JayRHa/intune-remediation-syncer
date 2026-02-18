@@ -1,0 +1,14 @@
+displayName: Restart stopped Office C2R svc
+description: >-
+  If the Click-to-Run service is stopped, attempt to start it.
+  If startup type is not automatic, change it to automatic.
+  Important since Win32 OPP won't launch if C2R isn't running.
+publisher: Microsoft
+runAsAccount: system
+runAs32Bit: false
+enforceSignatureCheck: false
+deviceHealthScriptType: deviceHealthScript
+roleScopeTagIds: []
+detectionScriptParameters: []
+remediationScriptParameters: []
+assignments: []

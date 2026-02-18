@@ -1,0 +1,13 @@
+displayName: Clear Teams Cache
+description: >-
+  Detects if the Microsoft Teams cache exceeds 500 MB.
+  If so, clears the cache folder to free disk space and resolve UI issues.
+publisher: Contoso IT
+runAsAccount: user
+runAs32Bit: false
+enforceSignatureCheck: false
+deviceHealthScriptType: deviceHealthScript
+roleScopeTagIds: []
+detectionScriptParameters: []
+remediationScriptParameters: []
+assignments: []
