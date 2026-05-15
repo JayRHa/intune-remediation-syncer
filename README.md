@@ -14,6 +14,12 @@ Sync. Version. Deploy.
 
 Remediation Syncer is a PowerShell-based tool that synchronizes Microsoft Intune Remediation Scripts (Proactive Remediations) with a local Git repository. It supports two modes: **Export** (Intune to Git) and **Import** (Git to Intune), giving you full version control over your remediation scripts.
 
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
+
 ---
 
 `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
