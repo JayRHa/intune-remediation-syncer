@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Intune Remediation Syncer
+
+Synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Endpoint Management | PowerShell | Public |
+
+**Repository:** `JayRHa/intune-remediation-syncer`  
+**Topics:** `microsoft-intune`, `proactive-remediations`, `sync`, `powershell`, `endpoint-management`
+<!-- repo-standard:end -->
+
+---
+
 # RemediationSyncer
 
 **Keep your Intune Proactive Remediations in Git -- bidirectional.**
