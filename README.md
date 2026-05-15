@@ -1,34 +1,34 @@
 <!-- unified-readme:start -->
-    <div align="center">
+<div align="center">
 
-    # Remediation Syncer
+# Remediation Syncer
 
-    **Synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.**
+**Synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.**
 
-    Sync. Version. Deploy.
+Sync. Version. Deploy.
 
-    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/RemediationSyncer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/RemediationSyncer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/RemediationSyncer/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/RemediationSyncer/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/RemediationSyncer/graphs/contributors)
 
-    ---
+---
 
-    `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+`Endpoint Management` | `PowerShell` | `Public` | `Maintained`
 
-    </div>
+</div>
 
-    ## What is this?
+## What is this?
 
-    This repository contains synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.
+This repository provides synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.
 
-    > Browse the documentation below for setup notes, usage details, and project-specific context.
+> Browse the documentation below for setup notes, usage details, and project-specific context.
 
-    ---
+---
 
-    ## Quick Start
+## Quick Start
 
-    1. Review the project documentation below.
+1. Review the project documentation below.
 2. Clone the repository:
 
    ```bash
@@ -37,9 +37,8 @@
 
 3. Follow the setup, deployment, or usage notes in the preserved documentation section.
 
-    ---
-    <!-- unified-readme:end -->
-
+---
+<!-- unified-readme:end -->
 
 ## Existing Documentation
 
