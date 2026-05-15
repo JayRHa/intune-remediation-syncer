@@ -20,7 +20,7 @@ Sync. Version. Deploy.
 
 ## What is this?
 
-This repository provides synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.
+Synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
