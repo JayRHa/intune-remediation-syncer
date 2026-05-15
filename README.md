@@ -1,9 +1,9 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Remediation Syncer
+# RemediationSyncer
 
-**Synchronizes Microsoft Intune Proactive Remediation scripts between repositories and environments.**
+**Keep your Intune Proactive Remediations in Git -- bidirectional.**
 
 Sync. Version. Deploy.
 
@@ -11,6 +11,8 @@ Sync. Version. Deploy.
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/RemediationSyncer/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/RemediationSyncer/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/RemediationSyncer?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/RemediationSyncer/graphs/contributors)
+
+RemediationSyncer is a PowerShell-based tool that synchronizes Microsoft Intune Remediation Scripts (Proactive Remediations) with a local Git repository. It supports two modes: **Export** (Intune to Git) and **Import** (Git to Intune), giving you full version control over your remediation scripts.
 
 ---
 
@@ -20,7 +22,7 @@ Sync. Version. Deploy.
 
 ## What is this?
 
-Remediation Syncer supports Microsoft Intune and endpoint management workflows such as automation, troubleshooting, remediation, deployment, or reporting.
+RemediationSyncer supports Microsoft Intune and endpoint management workflows such as automation, troubleshooting, remediation, deployment, or reporting.
 
 ## Project Context
 
@@ -51,23 +53,10 @@ flowchart LR
    git clone https://github.com/JayRHa/RemediationSyncer.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# RemediationSyncer
-
-**Keep your Intune Proactive Remediations in Git -- bidirectional.**
-
-RemediationSyncer is a PowerShell-based tool that synchronizes Microsoft Intune Remediation Scripts (Proactive Remediations) with a local Git repository. It supports two modes: **Export** (Intune to Git) and **Import** (Git to Intune), giving you full version control over your remediation scripts.
-
----
 
 ## Table of Contents
 
